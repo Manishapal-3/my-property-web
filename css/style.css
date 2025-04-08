@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.grab-box{
+    width: 300px;
+}
+.grab-box-act{
+    width: 350px;
+}
+/* .third_sec{
+    background-image: url(../images/video-bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+} */
+
+ /* .third_sec{
+        background-image: url(./images/video-bgimg.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding: 100px; 
+      }  */
